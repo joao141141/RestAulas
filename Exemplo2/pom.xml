@@ -8,10 +8,10 @@
 		<version>3.3.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>teste.aula1</groupId>
-	<artifactId>exemplo1</artifactId>
+	<groupId>aula1.exemplo</groupId>
+	<artifactId>Exemplo2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>exemplo1</name>
+	<name>Exemplo2</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>21</java.version>
@@ -19,7 +19,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
 		<dependency>

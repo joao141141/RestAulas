@@ -1,10 +1,10 @@
-package teste.aula1.exemplo1;
+package aula1.exemplo.Exemplo2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Exemplo1ApplicationTests {
+class Exemplo2ApplicationTests {
 
 	@Test
 	void contextLoads() {
